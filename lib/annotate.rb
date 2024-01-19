@@ -4,6 +4,7 @@ require 'annotate/annotate_models'
 require 'annotate/annotate_routes'
 require 'annotate/constants'
 require 'annotate/helpers'
+require 'annotate/error_tracking'
 
 begin
   # ActiveSupport 3.x...
